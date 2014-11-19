@@ -1,5 +1,3 @@
-module macklemore
-
 #=
 We are going to the thrift store and need 99 cents. What is the least amount of
 weight we need to carry?
@@ -36,5 +34,3 @@ println(round(getValue(pennies)), " pennies") # "round" to cast as integer
 println(round(getValue(nickels)), " nickels")
 println(round(getValue(dimes)), " dimes")
 println(round(getValue(quarters)), " quarters")
-
-end # end the module - not traditional to indent

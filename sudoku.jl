@@ -1,5 +1,3 @@
-module sudoku
-
 #=
 Let's solve a sudoku problem.
 
@@ -116,6 +114,3 @@ for i in 1:9
         println("[-----------------------]")
     end
 end
-
-
-end#module
