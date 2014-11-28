@@ -1,7 +1,7 @@
 #=
 Let's solve a sudoku problem.
 
-Credit for approach and some logig, incl printing: https://github.com/JuliaOpt/JuMP.jl/blob/master/examples/sudoku.jl
+Credit for approach and some logic, incl printing: https://github.com/JuliaOpt/JuMP.jl/blob/master/examples/sudoku.jl
 =#
 
 using JuMP
